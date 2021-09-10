@@ -1,4 +1,7 @@
 #Hi
 #HElloooooooo
+<<<<<<< HEAD
 Something
-#Tim
+Tim
+Hi Tim
+
